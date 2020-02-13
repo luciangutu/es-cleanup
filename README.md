@@ -3,6 +3,7 @@ elasticsearch dumb cleanup
 
 
 The output is simmilar to this one:
+
 logstash-2019.07.15       3 p STARTED 1507733  877.1mb x.x.x.x  Hsu9SEt
 logstash-2019.07.15       3 r STARTED 1507733  877.1mb x.x.x.x   MxzqZUB
 logstash-2019.07.15       0 r STARTED 1509547  882.2mb x.x.x.x  Hsu9SEt
